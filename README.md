@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋! My name is Mohamed Abdi and I'm a Fullstack Developer from Sweden.</h2>
 
 ###
