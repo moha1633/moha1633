@@ -50,8 +50,7 @@ Jag är passionerad över att bygga dynamiska webbapplikationer med moderna tekn
   </a>
 </div>
 
-### 🐍 Snake Animation
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ### 🔧 Mina Färdigheter
 JavaScript, C#, ASP.NET Core, Node.js, PHP, MongoDB, MySQL, SQL
