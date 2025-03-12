@@ -2,6 +2,18 @@
 
 ###
 
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+Mohamed är en engagerad och skicklig fullstack-utvecklare med bred erfarenhet inom både frontend- och backend-utveckling. 
+Han har arbetat med moderna teknologier som JavaScript, PHP, HTML, CSS och Node.js, samt har djupgående kunskap i databashantering med MySQL och MongoDB.  
+Mohamed har även erfarenhet av att arbeta i agila team och har samarbetat framgångsrikt med designers och utvecklare för att skapa användarvänliga och stabila lösningar.  
+<br><br>
+Förutom sitt tekniska kunnande har Mohamed en bakgrund som mentor, där han har stöttat ungdomar i deras akademiska och personliga utveckling. Hans pedagogiska förmåga och starka ledarskap har hjälpt många att nå sina mål.
+</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moha1633&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moha1633&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
@@ -35,6 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
 </div>
 
 ###
@@ -52,5 +68,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/moha1633/moha1633/output/snake.svg" alt="Snake animation" />
-
-
