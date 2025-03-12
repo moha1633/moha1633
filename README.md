@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Mohamed Abdi and I'm a Fullstack Developer from Sweden.</h2>
 
 ###
@@ -5,9 +6,8 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Jag är Mohamed, en fullstack-utvecklare med erfarenhet av JavaScript, PHP, HTML, CSS och Node.js. Jag har också kunskaper i MySQL och MongoDB, och jag har arbetat i agila team. Dessutom har jag erfarenhet som mentor och stöttar ungdomar i deras utveckling.
+Jag är Mohamed, en fullstack-utvecklare med erfarenhet av JavaScript, PHP, HTML, CSS och Node.js. Jag har också kunskaper i MySQL och MongoDB, samt Entity Framework för .NET-applikationer. Jag har arbetat i agila team och har erfarenhet som mentor där jag stöttar ungdomar i deras utveckling.
 </p>
-
 
 ###
 
@@ -30,6 +30,8 @@ Jag är Mohamed, en fullstack-utvecklare med erfarenhet av JavaScript, PHP, HTML
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframework/entityframework-original.svg" height="30" alt="Entity Framework" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
   <img width="12" />
